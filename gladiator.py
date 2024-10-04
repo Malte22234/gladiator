@@ -1,0 +1,1 @@
+print("Du är en gladiator utan vapen som ska slåss i en gladiator arena din motståndare gandalf är en mycket erfaren och farlig motståndare var försiktigt med honom. ")
